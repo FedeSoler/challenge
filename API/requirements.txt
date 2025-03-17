@@ -1,0 +1,5 @@
+pandas
+seaborn
+requests
+python-dotenv
+jupyterlab
